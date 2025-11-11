@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rohit Kumar | Data Science Engineer</title>
+    <meta name="description" content="Portfolio of Rohit Kumar - Software Engineer passionate about solving real-world problems through data-driven solutions." />
+    <style>
+      /* Initial loading styles */
+      .dark {
+        background-color: #111827;
+        color: #f9fafb;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.5; }
+      }
+      .animate-pulse {
+        animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <!-- Loading state placeholder -->
+      <div class="flex justify-center items-center h-screen">
+        <div class="animate-pulse text-xl font-bold text-blue-600 dark:text-blue-400">
+          Loading...
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
