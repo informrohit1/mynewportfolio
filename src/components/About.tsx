@@ -32,7 +32,7 @@ const About: React.FC = () => {
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 flex items-center gap-2">
                   <Award size={16} className="text-blue-600 dark:text-blue-400" />
-                  CGPA: 8.02
+                  CGPA: 8.15
                 </p>
               </div>
               
