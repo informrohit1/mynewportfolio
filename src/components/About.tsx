@@ -64,7 +64,7 @@ const About: React.FC = () => {
               My Journey
             </h3>
             <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-              I'm a passionate B.Tech student in Electrical and Electronics Engineering with a Minor in Data Science at Amrita University. My academic journey has equipped me with a unique blend of engineering fundamentals and data science expertise.
+              I'm a passionate Software Engineer with a Expertise in Data Science and Engineering. My academic journey has equipped me with a unique blend of engineering fundamentals and data science expertise.
             </p>
             <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
               What drives me is the application of my technical knowledge to solve real-world problems through innovative, data-driven solutions. I believe in the power of data to transform industries and improve lives.
