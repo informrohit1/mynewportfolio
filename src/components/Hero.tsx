@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
                 Software Engineer - Relanto
               </h2>
               <p className="text-gray-700 dark:text-gray-300 mb-8 max-w-lg">
-                I'm a Software Enginner I at Relanto, passionate about applying Software Engineering knowledge to solve real-world problems through data-driven solutions. I am constantly learning and improving through projects, certifications, and team experiences.
+                I'm Software Enginner I at Relanto, passionate about applying Software Engineering knowledge to solve real-world problems through data-driven solutions. I am constantly learning and improving through projects, certifications, and team experiences.
               </p>
 
               <div className="flex flex-wrap gap-4 mb-8">
