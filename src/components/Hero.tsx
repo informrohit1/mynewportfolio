@@ -15,10 +15,10 @@ const Hero: React.FC = () => {
                 Rohit Kumar
               </h1>
               <h2 className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 mb-6">
-                Data Science Engineer & Electrical Engineering Student
+                Software Engineer - Relanto
               </h2>
               <p className="text-gray-700 dark:text-gray-300 mb-8 max-w-lg">
-                I'm a B.Tech student in EEE with a Minor in Data Science at Amrita University, passionate about applying core engineering and programming knowledge to solve real-world problems through data-driven solutions. I am constantly learning and improving through projects, certifications, and team experiences.
+                I'm a Software Enginner I at Relanto, passionate about applying Software Engineering knowledge to solve real-world problems through data-driven solutions. I am constantly learning and improving through projects, certifications, and team experiences.
               </p>
 
               <div className="flex flex-wrap gap-4 mb-8">
