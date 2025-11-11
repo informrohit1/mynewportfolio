@@ -13,14 +13,14 @@ export const skillsData: SkillCategory[] = [
     category: "Programming Languages",
     skills: [
       { name: "Python", proficiency: 90 },
-      { name: "C++", proficiency: 60 }
+      { name: "C++", proficiency: 60 },
+      { name: "Java", proficiency: 80 },
+      { name: "Java Script", proficiency: 75 }
     ]
   },
   {
     category: "Tools & Frameworks",
     skills: [
-      { name: "Java", proficiency: 80 },
-      { name: "Machine Learning", proficiency: 80 },
       { name: "Fast API", proficiency: 80 },
       { name: "AWS", proficiency: 75 },
       { name: "System Design (HLD)", proficiency: 75 },
