@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="mb-6 md:mb-0">
             <h2 className="text-2xl font-bold text-blue-400 mb-2">Rohit Kumar</h2>
             <p className="text-gray-400 max-w-md">
-              Data Science Engineer & Electrical Engineering Student passionate about solving real-world problems through data-driven solutions.
+              Software Enginner I at Relanto passionate about solving real-world problems through data-driven solutions.
             </p>
           </div>
           
