@@ -1,7 +1,7 @@
 import React from 'react';
 import { FileDown, Linkedin, Github, Mail, Phone } from 'lucide-react';
 import myImage from './my.jpg'; // Update the path if image is elsewhere
-import resumePDF from './RohitKumar.pdf';
+import resumePDF from '../Rohitresume.pdf';
 
 const Hero: React.FC = () => {
   return (
